@@ -2,7 +2,7 @@
 
 **Shrink Florence-2 for document OCR without breaking quality** — five post-training quantization methods implemented from scratch in plain PyTorch.
 
-<img src="https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phases_abcd_journey.png" alt="Phases A→D — complete function journey" width="900"/>
+![Phases A→D — complete function journey](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phases_abcd_journey.png)
 
 ---
 
@@ -49,7 +49,7 @@ Run **Phases A → D** in order. Each phase has markdown (what/why) then code (d
 
 **Load model (Stage 7):** Florence-2 + calibration document page.
 
-<img src="https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phases_abcd_journey.png" alt="Phases A→D — complete function journey" width="900"/>
+![Phases A→D — complete function journey](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phases_abcd_journey.png)
 
 ---
 
