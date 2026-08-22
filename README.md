@@ -2,7 +2,7 @@
 
 **Shrink Florence-2 for document OCR without breaking quality** — five post-training quantization methods implemented from scratch in plain PyTorch.
 
-![Phases A→D — complete function journey](assets/nb02/wb_phases_abcd_journey.png)
+<img src="https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phases_abcd_journey.png" alt="Phases A→D — complete function journey" width="900"/>
 
 ---
 
@@ -49,7 +49,7 @@ Run **Phases A → D** in order. Each phase has markdown (what/why) then code (d
 
 **Load model (Stage 7):** Florence-2 + calibration document page.
 
-![Phases A→D — complete function journey](assets/nb02/wb_phases_abcd_journey.png)
+<img src="https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phases_abcd_journey.png" alt="Phases A→D — complete function journey" width="900"/>
 
 ---
 
@@ -95,7 +95,7 @@ No external quantization libraries — all quant code is plain PyTorch.
 ```
 VLM_Quant/
 ├── ocr_pipeline_quant.ipynb      # Main notebook (Phases A–E)
-├── assets/nb02/                  # Diagrams and walkthrough images
+├── https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/                  # Diagrams and walkthrough images
 ├── LICENSE                       # Apache 2.0
 └── README.md
 ```
@@ -114,14 +114,14 @@ VLM_Quant/
 
 ## Diagrams
 
-All images live in [`assets/nb02/`](assets/nb02/). The notebook renders **25 stage overview images** inline; **73 line-by-line walkthrough diagrams** are clickable links inside the notebook (look for 📎).
+All images live in [`https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/`](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/). The notebook renders **25 stage overview images** inline; **73 line-by-line walkthrough diagrams** are clickable links inside the notebook (look for 📎).
 
 | Category | Examples |
 |----------|----------|
-| **Pipeline** | [Phases A→D journey](assets/nb02/wb_phases_abcd_journey.png) · [All classes map](assets/nb02/wb_all_classes_map.png) |
-| **Stages 1–7** | [Building blocks](assets/nb02/nb02_stage01_building_blocks.png) · [GPTQ](assets/nb02/nb02_stage02_gptq.png) · [Load model](assets/nb02/nb02_stage07_load_model.png) |
-| **Phases A–E** | [Phase A](assets/nb02/wb_phase_a_overview.png) · [Phase B](assets/nb02/wb_phase_b_overview.png) · [Phase C](assets/nb02/wb_phase_c_overview.png) · [Phase D](assets/nb02/wb_phase_d_overview.png) |
-| **Walkthroughs** | Browse all `wb_*_lines.png` files in [assets/nb02/](assets/nb02/) |
+| **Pipeline** | [Phases A→D journey](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phases_abcd_journey.png) · [All classes map](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_all_classes_map.png) |
+| **Stages 1–7** | [Building blocks](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/nb02_stage01_building_blocks.png) · [GPTQ](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/nb02_stage02_gptq.png) · [Load model](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/nb02_stage07_load_model.png) |
+| **Phases A–E** | [Phase A](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phase_a_overview.png) · [Phase B](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phase_b_overview.png) · [Phase C](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phase_c_overview.png) · [Phase D](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/wb_phase_d_overview.png) |
+| **Walkthroughs** | Browse all `wb_*_lines.png` files in [https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/](https://github.com/Gaurav14cs17/VLM_Quant/raw/main/assets/nb02/) |
 
 ---
 
