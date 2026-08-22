@@ -114,7 +114,7 @@ VLM_Quant/
 
 ## Diagrams
 
-All images live in [`assets/nb02/`](assets/nb02/). The notebook has **25 stage overview images embedded** (visible on GitHub even in private repos); **73 walkthrough diagrams** are clickable 📎 links in the notebook.
+All images live in [`assets/nb02/`](assets/nb02/). The notebook uses relative image paths; **73 walkthrough diagrams** are clickable 📎 links.
 
 | Category | Examples |
 |----------|----------|
