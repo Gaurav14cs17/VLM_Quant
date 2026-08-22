@@ -114,7 +114,7 @@ VLM_Quant/
 
 ## Diagrams
 
-All images live in [`assets/nb02/`](assets/nb02/). The notebook uses relative image paths; **73 walkthrough diagrams** are clickable 📎 links.
+All images render inline in the notebook from [`assets/nb02/`](assets/nb02/) (98 diagrams).
 
 | Category | Examples |
 |----------|----------|
